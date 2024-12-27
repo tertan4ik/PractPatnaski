@@ -1,0 +1,21 @@
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\st325l03\Documents\Еремеев пр23\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Tertan41k\Desktop\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SizeSelectionForm.resources
